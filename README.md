@@ -151,7 +151,7 @@ Go to **line-chart.component.html** file and include the following code in it.
 ```
 
 Result:
-
+![](images/linechart.png)
 
 
 <h2 id="bar_chart">Bar Chart</h2>
@@ -203,7 +203,7 @@ Go to **bar-chart.component.html** file and add the given below code.
 ```
 
 Result:
-
+![](images/barchart.png)
 
 
 <h2 id="doughnut_chart">Doughnut Chart</h2>
@@ -250,7 +250,7 @@ Go to **doughnut-chart.component.html** file and add the following code.
 ```
 
 Result:
-
+![](images/doughnutchart.png)
 
 
 <h2 id="radar_chart">Radar Chart</h2>
@@ -303,7 +303,7 @@ Go to **radar-chart.component.html** file and add the given below code.
 ```
 
 Result:
-
+![](images/radarchart.png)
 
 
 <h2 id="pie_chart">Pie Chart</h2>
@@ -359,7 +359,7 @@ Go to **pie-chart.component.html** file and include the following code.
 ```
 
 Result:
-
+![](images/piechart.png)
 
 
 <h2 id="bubble_chart">Bubble Chart</h2>
@@ -431,3 +431,4 @@ Go to **bubble-chart.component.html** file and include the following code.
 ```
 
 Verify the result in the browser, bubble chart will look like this.
+![](images/bubblechart.png)
